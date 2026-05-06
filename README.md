@@ -69,7 +69,7 @@ Bengaluru, India
 
 ## Featured Projects
 
-### RaftKV Studio  
+### [RaftKV Studio](https://github.com/AbhishekNazare/raftkv-studio)
 **C++20 • Raft Consensus • Python • React • TypeScript • Docker**
 
 An interactive distributed key-value store built around the Raft consensus protocol.
@@ -79,15 +79,9 @@ An interactive distributed key-value store built around the Raft consensus proto
 • Implemented a Python control-plane API and React/TypeScript observability dashboard for live consensus demos, topology visualization, KV commands, fault injection, and event timelines.  
 • Added Dockerized backend tests, GitHub Actions CI, phase-based Git branches, clean commits, and documentation for interview-ready demos.  
 
-<p align="center">
-  <a href="https://github.com/AbhishekNazare/raftkv-studio">
-    <img alt="RaftKV Studio repo card" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekNazare&repo=raftkv-studio&theme=github_dark&hide_border=true">
-  </a>
-</p>
-
 ---
 
-### Concurrent Task Processing System  
+### [Concurrent Task Processing System](https://github.com/AbhishekNazare/jobflow)
 **Java • Multithreading • Thread Pools • Async Processing**
 
 A backend processing system focused on concurrent execution, thread safety, and reliable task handling.
@@ -98,7 +92,7 @@ A backend processing system focused on concurrent execution, thread safety, and 
 
 ---
 
-### Event-Driven Microservices Platform  
+### [Event-Driven Microservices Platform](https://github.com/AbhishekNazare/event-driven-banking-kafka)
 **Kafka • Distributed Systems • Fault Tolerance • Microservices**
 
 A distributed backend platform for real-time transaction processing and system notifications.
@@ -108,6 +102,7 @@ A distributed backend platform for real-time transaction processing and system n
 • Focused on consistency, resilience, and scalable service-to-service communication.  
 
 ---
+
 
 
 
