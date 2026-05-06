@@ -1,11 +1,37 @@
+<!--
+GitHub Profile README for Abhishek Shrikant Nazare
+
+How to use:
+1. Create a GitHub repository named exactly: AbhishekNazare
+2. Save this file as README.md in that repository.
+3. Optional: create an assets/ folder and add:
+   - assets/github-banner.gif
+   - assets/system-architecture.gif
+   - assets/avatar.png
+4. If you do not have these assets yet, the README still works because the animated typing header and badges are URL-based.
+-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:7c3aed&height=170&section=header&text=Abhishek%20Nazare&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Systems%20%7C%20Distributed%20Systems%20%7C%20Reliability%20Engineering&descAlignY=58&descSize=16" alt="Abhishek Nazare Header" />
+</p>
+
 <h1 align="center">Hi, I'm Abhishek Shrikant Nazare</h1>
 
 <p align="center">
-  Backend Engineer • Distributed Systems Enthusiast • MS CISE @ University of Florida
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend+Engineer;Distributed+Systems+Enthusiast;Java+%7C+Spring+Boot+%7C+Kafka+%7C+Redis+%7C+PostgreSQL;Looking+for+2026+Co-op+%2F+Internship+Roles;Open+to+2027+New+Grad+SDE+Roles"
+      alt="Typing SVG"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <strong>Graduating May 2027</strong> • Looking for <strong>2026 Co-op / Internship</strong> and <strong>2027 New Grad SDE roles</strong>
+  <strong>MS CISE @ University of Florida</strong> • <strong>Graduating May 2027</strong>
+</p>
+
+<p align="center">
+  Looking for <strong>2026 Co-op / Internship</strong> and <strong>2027 New Grad SDE roles</strong>
 </p>
 
 <p align="center">
@@ -22,8 +48,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Java Spring Boot">
-  <img src="https://img.shields.io/badge/Distributed%20Systems-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka">
-  <img src="https://img.shields.io/badge/Backend-Microservices-0f172a?style=for-the-badge" alt="Backend Microservices">
+  <img src="https://img.shields.io/badge/Kafka-Event%20Driven-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka">
+  <img src="https://img.shields.io/badge/Redis-Caching-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/PostgreSQL-Data%20Systems-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Docker-Infrastructure-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
 
@@ -69,7 +96,7 @@ Bengaluru, India
 
 ## Featured Projects
 
-### [RaftKV Studio](https://github.com/AbhishekNazare/raftkv-studio)
+### 🚀 [RaftKV Studio](https://github.com/AbhishekNazare/raftkv-studio)
 **C++20 • Raft Consensus • Python • React • TypeScript • Docker**
 
 An interactive distributed key-value store built around the Raft consensus protocol.
@@ -79,9 +106,10 @@ An interactive distributed key-value store built around the Raft consensus proto
 • Implemented a Python control-plane API and React/TypeScript observability dashboard for live consensus demos, topology visualization, KV commands, fault injection, and event timelines.  
 • Added Dockerized backend tests, GitHub Actions CI, phase-based Git branches, clean commits, and documentation for interview-ready demos.  
 
+
 ---
 
-### [Concurrent Task Processing System](https://github.com/AbhishekNazare/jobflow)
+### ⚙️ [Concurrent Task Processing System](https://github.com/AbhishekNazare/jobflow)
 **Java • Multithreading • Thread Pools • Async Processing**
 
 A backend processing system focused on concurrent execution, thread safety, and reliable task handling.
@@ -90,9 +118,10 @@ A backend processing system focused on concurrent execution, thread safety, and 
 • Ensured thread safety using synchronization mechanisms and idempotent task handling.  
 • Prevented race conditions under concurrent workloads and improved reliability of backend task execution.  
 
+
 ---
 
-### [Event-Driven Microservices Platform](https://github.com/AbhishekNazare/event-driven-banking-kafka)
+### 🔁 [Event-Driven Microservices Platform](https://github.com/AbhishekNazare/event-driven-banking-kafka)
 **Kafka • Distributed Systems • Fault Tolerance • Microservices**
 
 A distributed backend platform for real-time transaction processing and system notifications.
@@ -101,10 +130,8 @@ A distributed backend platform for real-time transaction processing and system n
 • Designed retry mechanisms, dead-letter queues, and fault-tolerant patterns to prevent state divergence under failure scenarios.  
 • Focused on consistency, resilience, and scalable service-to-service communication.  
 
+
 ---
-
-
-
 
 ## Technical Skills
 
